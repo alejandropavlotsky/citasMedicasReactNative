@@ -20,7 +20,7 @@ const App = () => {
 const styles = StyleSheet.create({
   encabezado: {
     textAlign: 'center',
-    marginTop: 100,
+    marginTop: 120,
   },
 });
 
